@@ -1,4 +1,4 @@
-### Hi there, my name is Gabriel and I'm studying to be a Fullstack Developer.
+### Hi there, my name is Gabriel and I'm studying Java and Python.
 
 ##
 
