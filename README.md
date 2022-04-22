@@ -23,6 +23,6 @@
   <a href = "mailto:gabriel.butti@hotmail.com"><img height="28" width="90" src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-butti-393bb1179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-    ![Snake animation](https://github.com/GabrielButti/GabrielButti/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GabrielButti/GabrielButti/blob/output/github-contribution-grid-snake.svg)
   </div>
  
