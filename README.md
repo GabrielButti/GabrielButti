@@ -1,4 +1,5 @@
-# Hi there, my name is Gabriel and I am currently studying Systems Analysis and Development, focusing on Data Analysis.
+# Gabriel Butti
+Hi there, my name is Gabriel and I am currently studying Systems Analysis and Development, focusing on Data Analysis.
 I've been dedicating myself more and more to acquire as much knowledge as possible in the technology area for over a year.
 I've been participating in Bootcamps and doing some free courses over that time, having some fundamentals, of the most varied levels in: Office Package, Power BI, Python, R, SQL, Machine Learning.
 I have an intermediate level of English, having a good grasp of comprehension, writing and speaking.
