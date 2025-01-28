@@ -1,37 +1,41 @@
-# Gabriel Butti
-Olá!! Me chamo Gabriel e atualmente estou cursando Análise e Desenvolvimento de Sistemas, com foco em Análise de Dados.
-Há mais de um ano venho me dedicando cada vez mais para adquirir o máximo de conhecimento possível na área de tecnologia.
-Tenho participado de Bootcamps e feito alguns cursos gratuitos ao longo desse tempo, tendo alguns fundamentos, dos mais variados níveis em: Pacote Office, Power BI, Python, R, SQL, Machine Learning.
-Tenho um nível intermediário de inglês, tendo um bom domínio de compreensão, escrita e conversação.
+# Sobre Mim
 
-Atualmente sou estagiário no Bradesco, atuando principalmente na área de dados.
-Tendo como principais atividades: o controle, visualização e extração de dados bem como sua utilização para fins de previsão, planejamento estratégico, etc.
+Sou entusiasta por dados e automação, com mais de um ano de experiência impulsionando transformações digitais por meio de soluções baseadas em dados e tecnologias avançadas. Atualmente, atuo no CoE - Centro de Inovação e Excelência da TOTVS, liderando iniciativas estratégicas que otimizam processos e geram valor para o negócio.
 
-Os conhecimentos adquiridos durante estes estágios permitiram-me desenvolver competências extremamente importantes,
-hoje sei lidar muito bem com o público, trabalho bem em equipe, sou proativo, comunicativo, responsável, pontual, metódico. Procuro sempre realizar minhas atividades com sucesso e estou constantemente
-aprimoramento profissional e individual.
+Minha missão é transformar dados em insights e processos manuais em fluxos automatizados, promovendo uma cultura orientada por dados e eficiência. Possuo expertise em modelagem, análise, visualização e desenvolvimento de soluções integradas, que simplificam operações e possibilitam decisões mais assertivas.
 
-Procuro sempre me qualificar cada vez mais na área de Dados, à qual dedico total energia e entusiasmo.
+## Áreas de Atuação
 
-## Conecte-se comigo
+### 1. Análise de Dados
+Crio pipelines de dados confiáveis para ingestão, transformação e análise, do início à entrega de dashboards e relatórios acionáveis.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabriel-butti-393bb1179/)
+- **Pandas**: Manipulação e transformação de grandes datasets.
+- **NumPy**: Operações matemáticas eficientes.
+- **Matplotlib/Seaborn**: Visualização de dados para análises exploratórias.
 
-## Habilidades
+**Banco de Dados**: Experiência em SQL Server, MySQL, Oracle e Hadoop, com foco em modelagem, extração e manipulação de dados.
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![PacoteOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+### 2. Automação (RPA)
+Especialista em eliminar tarefas manuais e repetitivas por meio de automações eficientes.
 
-## Github Status
+- **Selenium**: Automação de navegadores para web scraping e formulários.
+- **PyAutoGUI**: Interação com aplicações desktop.
+- **OpenPyXL/Pandas**: Manipulação automatizada de planilhas Excel.
+- **Schedule**: Agendamento e execução recorrente de automações.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielButti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielButti&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-  
-![Snake animation](https://github.com/GabrielButti/GabrielButti/blob/output/github-contribution-grid-snake.svg)
- 
+### 3. Ferramentas e Soluções Customizadas
+Desenvolvo soluções integradas e sob medida, alinhando automações, dados e ferramentas inteligentes.
+
+- **Logging**: Logs detalhados para rastreabilidade.
+- **Google API Client**: Automação com serviços do Google, como e-mails e Google Drive.
+- **Requests**: Integração com APIs externas.
+
+### 4. Business Intelligence (BI)
+Criação de dashboards interativos e dinâmicos com ferramentas como Power BI, Google Looker e Tableau, sempre focando nas necessidades dos stakeholders.
+
+### 5. Gestão Ágil
+Conhecimento em metodologias ágeis com ferramentas como Jira e Zendesk, facilitando a colaboração e a entrega de projetos.
+
+---
+
+Com um olhar analítico e foco na inovação, estou sempre buscando novas formas de agregar valor por meio da transformação digital e automação.
