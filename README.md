@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Sou entusiasta por dados e automação, com mais de um ano de experiência impulsionando transformações digitais por meio de soluções baseadas em dados e tecnologias avançadas. Atualmente, atuo no CoE - Centro de Inovação e Excelência da TOTVS, liderando iniciativas estratégicas que otimizam processos e geram valor para o negócio.
+Sou entusiasta por dados e automação, com mais de um ano de experiência impulsionando transformações digitais por meio de soluções baseadas em dados e tecnologias avançadas.
 
 Minha missão é transformar dados em insights e processos manuais em fluxos automatizados, promovendo uma cultura orientada por dados e eficiência. Possuo expertise em modelagem, análise, visualização e desenvolvimento de soluções integradas, que simplificam operações e possibilitam decisões mais assertivas.
 
