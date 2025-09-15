@@ -1,40 +1,59 @@
 # Sobre Mim
 
-Sou entusiasta por dados e automação, com mais de um ano de experiência impulsionando transformações digitais por meio de soluções baseadas em dados e tecnologias avançadas.
+Sou um profissional apaixonado por Data Science, Analytics e Machine Learning, com experiência em transformação digital e tomada de decisão orientada a dados. Ao longo de mais de dois anos, venho atuando no desenvolvimento de soluções que conectam dados complexos a resultados estratégicos, utilizando tecnologias modernas e metodologias ágeis.
 
-Minha missão é transformar dados em insights e processos manuais em fluxos automatizados, promovendo uma cultura orientada por dados e eficiência. Possuo expertise em modelagem, análise, visualização e desenvolvimento de soluções integradas, que simplificam operações e possibilitam decisões mais assertivas.
+Meu objetivo é extrair insights relevantes, construir modelos preditivos e implementar soluções escaláveis que gerem impacto real no negócio.
 
 ## Áreas de Atuação
 
-### 1. Análise de Dados
+### 1. Data Science & Advanced Analytics
 Crio pipelines de dados confiáveis para ingestão, transformação e análise, do início à entrega de dashboards e relatórios acionáveis.
 
-- **Pandas**: Manipulação e transformação de grandes datasets.
-- **NumPy**: Operações matemáticas eficientes.
-- **Matplotlib/Seaborn**: Visualização de dados para análises exploratórias.
+- Atuação ponta a ponta, desde a engenharia e exploração de dados até a modelagem estatística e preditiva, com foco em performance e precisão.
 
-**Banco de Dados**: Experiência em SQL Server, MySQL, Oracle e Hadoop, com foco em modelagem, extração e manipulação de dados.
+- Linguagens: **Python (Pandas, NumPy)** para manipulação de grandes volumes de dados; **R (caret, tidyverse, ggplot2)** para análises estatísticas e modelagem avançada.
 
-### 2. Automação (RPA)
-Especialista em eliminar tarefas manuais e repetitivas por meio de automações eficientes.
+- **Machine Learning**: Modelos supervisionados e não supervisionados, aplicando scikit-learn para classificação, regressão e clustering.
 
-- **Selenium**: Automação de navegadores para web scraping e formulários.
-- **PyAutoGUI**: Interação com aplicações desktop.
-- **OpenPyXL/Pandas**: Manipulação automatizada de planilhas Excel.
-- **Schedule**: Agendamento e execução recorrente de automações.
+- **Estatística Aplicada**: Regressões, ANOVA, testes de hipóteses, amostragem e análise inferencial para suporte à tomada de decisão.
 
-### 3. Ferramentas e Soluções Customizadas
-Desenvolvo soluções integradas e sob medida, alinhando automações, dados e ferramentas inteligentes.
+**ML Workflow**: Pré-processamento, feature engineering, validação cruzada e métricas de avaliação.
 
-- **Logging**: Logs detalhados para rastreabilidade.
-- **Google API Client**: Automação com serviços do Google, como e-mails e Google Drive.
-- **Requests**: Integração com APIs externas.
+### 2. Business Intelligence & Data Visualization
 
-### 4. Business Intelligence (BI)
-Criação de dashboards interativos e dinâmicos com ferramentas como Power BI, Google Looker e Tableau, sempre focando nas necessidades dos stakeholders.
+- Transformação de dados em insights estratégicos para **tomada de decisão**.
 
-### 5. Gestão Ágil
-Conhecimento em metodologias ágeis com ferramentas como Jira e Zendesk, facilitando a colaboração e a entrega de projetos.
+- **Dashboards**: Power BI, Google Looker e Tableau, com foco em KPIs e storytelling visual.
+
+- **Visualização em Python**: Matplotlib, Seaborn e Plotly para análises gráficas avançadas.
+
+### 3. Big Data, Cloud e Integração
+
+- **Big Data**: Processamento distribuído com Spark e Databricks.
+
+- **Cloud**: Experiência com AWS e Azure para armazenamento, processamento e deploy de soluções escaláveis.
+
+- **Bancos de Dados**: PostgreSQL, MySQL, SQL Server para dados relacionais e MongoDB para dados NoSQL.
+
+### 4. Engenharia de Dados & Automação
+
+- Automação de fluxos com **Selenium** e **PyAutoGUI**.
+
+- Manipulação avançada de dados com **OpenPyXL** e **Pandas**.
+
+- Integrações via **APIs REST** (Google API Client, Requests) e agendamento de processos com monitoramento (Logging, Schedule).
+
+### 5. Inteligência Artificial e Modelos Avançados
+
+- **Deep Learning** e **Redes Neurais** para problemas complexos.
+
+- **NLP** e **LLMs** para processamento e análise de linguagem natural.
+
+- **Teoria dos Grafos** aplicada em análises estruturais.
+
+### 6. Governança e Metodologias Ágeis
+
+- Atuação em squads ágeis, utilizando **Jira** e práticas de **Scrum**, garantindo entregas contínuas e alinhadas ao negócio.
 
 ---
 
